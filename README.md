@@ -1,2 +1,2 @@
 # Dog_vs_Cat_ImageRecognition
-creating a tensorflow model that takes in images of dogs and cats, in order to identify them
+creating a tensorflow and pytorch model that takes in images of dogs and cats, in order to identify them
